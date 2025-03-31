@@ -1,11 +1,44 @@
-I am Adhimulam Bhargav Sai Viswanath, a B.Tech student specializing in Computer Science Engineering with a focus on Artificial Intelligence and Machine Learning at Vasireddy Venkatadri Institute of Technology (VVIT). My academic journey is enriched by a diverse range of experiences, from participating in college events to pursuing various online courses that enhance my skill set.
+# 🚀 Adhimulam Bhargav Sai Viswanath's GitHub Profile
 
-Throughout my educational career, I have earned numerous certificates for my achievements and participation in activities, including:
+Welcome to my GitHub profile! Here, you'll find details about my contributions, projects, and achievements. 
 
-InsightHunt, MarbleMarvels, and MysticZone Events at VVIT
-Science Exhibition accolades for Hologram and Laser Security projects
-Online courses in Cybersecurity, Graphic Design, and Remote Sensing & GIS for Environmental Studies from reputed platforms, including IIRS - ISRO
-Several specialized courses from Microsoft, focusing on AI tools, image analysis, document intelligence, and natural language processing.
-My passion lies in exploring the vast potentials of AI and Machine Learning. I am eager to leverage these technologies to solve real-world problems and contribute to innovative solutions that can positively impact society.
+---
 
-I believe in lifelong learning and am always on the lookout for new challenges and opportunities to grow personally and professionally. I look forward to connecting with like-minded individuals and exploring collaborative projects in the tech and AI domains.
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdhimulamBhargavSaiViswanath&show_icons=true&count_private=true&theme=dark)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdhimulamBhargavSaiViswanath&theme=dark)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhimulamBhargavSaiViswanath&layout=compact&theme=dark)  
+
+---
+
+## 📈 Contribution Activity Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AdhimulamBhargavSaiViswanath&theme=github-dark)  
+
+---
+
+## 🏆 GitHub Trophies  
+![Trophies](https://github-profile-trophy.vercel.app/?username=AdhimulamBhargavSaiViswanath&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)  
+
+---
+
+## 📌 Profile Summary  
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdhimulamBhargavSaiViswanath&theme=github_dark)  
+
+---
+
+## 📦 Repo Stats (Most Starred Repos)  
+![Most Starred Repos](https://github-contributor-stats.vercel.app/api?username=AdhimulamBhargavSaiViswanath)  
+
+---
+
+## 🚀 Wakatime Stats (Coding Activity)  
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AdhimulamBhargavSaiViswanath)  
+
+---
+
+## 📦 GitHub Metrics  
+![Metrics](https://github.com/AdhimulamBhargavSaiViswanath/github-metrics/blob/main/github-metrics.svg)  
+
+
